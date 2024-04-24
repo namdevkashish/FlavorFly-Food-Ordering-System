@@ -2,6 +2,8 @@
 
 FlavorFly is a full-stack food ordering application built with ReactJS, Tailwind CSS, Firebase, and Stripe API for payments.
 
+![Demo GIF](screenshots/Demo.gif)
+
 ## Description
 
 FlavorFly is designed to provide users with a seamless food ordering experience. Users can browse through various menu items, add them to their cart, and proceed with secure payments using Stripe API. The app also includes user authentication using Firebase, supporting both Google sign-in and email/password authentication.
